@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AuthentInfos>
+  <serveur>192.168.1.17</serveur>
+  <basedonnes>projetPharmacie</basedonnes>
+  <utilisateur>root</utilisateur>
+  <motdepasse>12345678</motdepasse>
+</AuthentInfos>
